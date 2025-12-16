@@ -29,7 +29,3 @@ Application: automatic reading of zip codes.
 - Pattern Recognition
 - Model Evaluation (Confusion Matrix)
 
-## How to Run
-1. Place the dataset in `data/`.
-2. Open the notebook `notebooks/svd_classification.ipynb`.
-3. Run the cells sequentially to reproduce results.
