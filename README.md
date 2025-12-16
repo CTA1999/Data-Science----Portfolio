@@ -14,6 +14,7 @@ business-focused problem solving.
 ## Projects
 | Project | Description | Tools |
 |-------|------------|------|
+|Handwritten Digit Classification | Built an SVD-based classifier to recognize handwritten digits using least-squares approximation and residual analysis | Python, NumPy, Pandas, Linear Algebra |
 
 
 📫 Contact: www.linkedin.com/in/ceciliaadeniran
