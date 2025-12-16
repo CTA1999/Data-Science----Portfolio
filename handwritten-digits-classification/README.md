@@ -20,7 +20,7 @@ Application: automatic reading of zip codes.
 
 ## Results
 - Overall classification accuracy: **XX%**
-- Confusion matrix: ![confusion_matrix](results/confusion_matrix.png)
+- Confusion matrix: ![confusion_matrix]
 
 ## Skills Demonstrated
 - Python (NumPy, Pandas, Matplotlib)
