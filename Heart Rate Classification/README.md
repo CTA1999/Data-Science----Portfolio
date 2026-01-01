@@ -31,11 +31,11 @@ The project demonstrates preprocessing, feature engineering, model training, and
 
 3. **Evaluation**  
    - Predictions are saved as a CSV with index and predicted class columns  
-   - Model performance evaluated using standard classification metrics (accuracy, confusion matrix) if true labels are available  
+   - Model performance evaluated using standard classification metrics (accuracy)  
 
 ---
 
 ## Results
 - Successfully generated predictions for test dataset  
-
+- validation accuracy: 96.73%
 
