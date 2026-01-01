@@ -15,7 +15,6 @@ business-focused problem solving.
 | Project | Description | Tools |
 |-------|------------|------|
 |Handwritten Digit Classification | Built an SVD-based classifier to recognize handwritten digits using least-squares approximation and residual analysis | Python, NumPy, Pandas, Linear Algebra |
-
 | Multiple Linear Regression - NFL Quarterback Performance Prediction | Built and improved a regression model to predict QB passer ratings using engineered features. | Python, Pandas, NumPy, scikit-learn |
 
 
