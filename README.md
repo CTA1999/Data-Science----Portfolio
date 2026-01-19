@@ -17,6 +17,7 @@ This repository showcases my projects in data analysis and machine learning.
 |Handwritten Digit Classification | Built an SVD-based classifier to recognize handwritten digits using least-squares approximation and residual analysis | Python, NumPy, Pandas, Linear Algebra |
 | Multiple Linear Regression - NFL Quarterback Performance Prediction | Built and improved a regression model to predict QB passer ratings using engineered features. | Python, Pandas, NumPy, scikit-learn |
 | Heart Activity Classification | Predicted heart activity classes (0–4) using interval-based time-series classification and signal preprocessing. | Python, pandas, sktime, scikit-learn |
+| Housing Data ETL Pipeline | Developed an end-to-end ETL pipeline to clean, preprocess, and transform housing data, handling missing values, scaling numeric features, and one-hot encoding categorical features for ML models | Python, Pandas, scikit-learn, NumPy |
 
 
 📫 Contact: www.linkedin.com/in/ceciliaadeniran
