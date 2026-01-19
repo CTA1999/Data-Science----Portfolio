@@ -1,4 +1,4 @@
-# Machine-Learning---Portfolio
+# Data Science---Portfolio
 
 Hi! I'm a Master’s student in Data Science.
 This repository showcases my projects in data analysis and machine learning.
