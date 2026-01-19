@@ -4,7 +4,7 @@ This project implements an **end-to-end ETL (Extract, Transform, Load) pipeline*
 
 ---
 
-## 🔄 Overview
+## Overview
 
 The ETL pipeline follows these steps:
 
